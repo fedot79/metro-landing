@@ -1,0 +1,160 @@
+
+
+
+
+                                                        /*HEADER START*/
+header{
+    background-color: #bd2126;
+}
+
+.header-logo-left{
+    border-radius: 0 0 20px 20px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 4px 63.7px 1.3px rgba(65, 12, 14, 0.004);
+    padding: 20px 45px 15px 45px;
+
+}
+.header-menu a{
+    font-size: 25.526px;
+    font-family: MetaPro;
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+    line-height: 1.68;
+    text-align: left;
+}
+.header-logo-right{
+    padding-top: 20px;
+
+}
+.header-logo-right img{
+    float: right;
+}
+.promo-name-left{
+    padding-top: 50px;
+}
+.promo-name-left h1{
+    font-size: 67.646px;
+    font-family: "Neucha";
+    color: rgb(255, 255, 255);
+    line-height: 1.03;
+    text-align: left;
+    text-shadow: 0 6px 6px rgba(183, 83, 56, 0.72);
+}
+.promo-name-right{
+    padding-top: 30px;
+    margin-left: -90px;
+}
+.header-center-left{
+    border-width: 1px;
+    border-color: rgb(111, 32, 20);
+    border-style: solid;
+    border-radius: 10px;
+    background-color: rgba(111, 32, 20,0.302);
+    padding-top: 20px;
+    margin-top: 35px;
+
+   /* width: 740px;
+    height: 489px;*/
+}
+.header-center-left-top p{
+    font-size: 30px;
+    font-family: MetaPro;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    line-height: 0.865;
+    float: left;
+    padding-top: 30px;
+}
+.header-center-left-top img{
+    float: right;
+}
+.header-center-left-center{
+    padding-top: 30px;
+    clear: both;
+    border-bottom: 2px solid #9a1f1f;
+}
+.header-center-left-center img{
+    float: left;
+}
+.ch-name{
+    font-size: 24px;
+
+    font-weight: bold;
+    line-height: 1.37;
+}
+.header-center-left-center p {
+    padding-left: 265px;
+    font-family: MetaPro;
+    color: rgb(255, 255, 255);
+
+}
+.header-center-left-center td {
+ padding-left: 45px;
+font-family: MetaPro;
+color: rgb(255, 255, 255);
+}
+.goods{
+    float: right;
+    margin-top: -20px;
+}
+.data-promo{
+    padding-top: 280px;
+}
+.header-center-right p{
+    font-size: 27px;
+    font-family: MetaPro;
+    color: rgb(255, 255, 255);
+    line-height: 1.438;
+    padding-left: 20px;
+
+}
+.sbor{
+    text-align: center;
+    padding-top: 65px;
+}
+.sbor-text{
+    font-size: 31px;
+    font-family: MetaPro;
+    color: rgb(255, 255, 255);
+    line-height: 0.996;
+}
+.sbor-sum{
+    font-size: 192px;
+    font-family: DINPro;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    line-height: 1.065;
+
+}
+
+                                                        /*HEADER END*/
+                                                        /*MAIN START*/
+
+main{
+    background-color: #fbfbfb;
+}
+.main-metro-left{
+    padding-top: 90px;
+}
+.card{
+    background: url("img/btn-back.png") no-repeat;
+    border: none;
+    padding: 35px 87px;
+    margin-left: 30px;
+}
+.card a{
+    font-size: 30px;
+    font-family: DINPro;
+    color: rgb(255, 229, 0);
+    line-height: 0.329;
+    text-decoration: none;
+
+}
+.card a:hover{
+    color: #5b5505;
+}
+
+
+
+
+                                                        /*MAIN END*/
